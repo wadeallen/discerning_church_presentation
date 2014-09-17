@@ -732,7 +732,7 @@
                             api.goto(song2_step);
                             break;
                     case 51: // 3
-                            var song3_step = document.getElementById('song3');
+                            var song3_step = document.getElementById('examine');
                             api.goto(song3_step);
                             break;
                     case 52: // 4
