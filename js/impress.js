@@ -764,7 +764,7 @@
                             api.goto(blank_step);
                             break;
                     case 68: // letter d
-                            var doxology_step = document.getElementById('doxology');
+                            var doxology_step = document.getElementById('credits');
                             api.goto(doxology_step);
                             break;
                 }
