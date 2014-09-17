@@ -162,6 +162,7 @@ blockquote .author {
 #explore-thing3 { font-size: 140px; }
 #explore-thing4 { font-size: 120px; }
 #explore-thing5 { font-size: 220px; }
+#explore-quote blockquote { text-align: center; font-size: 70px; line-height: 1.2; }
 
 #listen-real-not { font-size: 45px; padding-bottom: 10px; position: relative; left: 3px; }
 #listen-real-real { font-size: 160px; }
@@ -175,6 +176,7 @@ blockquote .author {
 #listen-theology-desc { font-size: 36px; padding-top: 10px; }
 #listen-more { font-size: 90px; }
 #listen-more a { font-size: 60px; }
+#listen-quote blockquote { text-align: center; font-size: 70px; line-height: 1.2; }
 
 
 #who-real-not { font-size: 36px; padding-bottom: 10px; position: relative; left: 3px; }
