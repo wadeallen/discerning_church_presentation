@@ -186,6 +186,9 @@ blockquote .author {
 #examine-thing4 { font-size: 190px; }
 #examine-quote blockquote { text-align: center; font-size: 40px; line-height: 1.2; }
 
+#decide-quote blockquote { text-align: center; font-size: 50px; line-height: 1.2; }
+
+
 #who-real-not { font-size: 36px; padding-bottom: 10px; position: relative; left: 3px; }
 #who-real-real { font-size: 93px; }
 #who-bg { font-size: 91px; }
@@ -228,7 +231,7 @@ blockquote .author {
 .where-step .extralight { line-height: .9; }
 #where { position: relative; left: -40px; letter-spacing: -10px; }
 
-#where-leaders { font-size: 238px; }
+#where-leaders { font-size: 150px; }
 #where-leader-em { font-size: 99px; }
 #where-leader-lw { font-size: 91px; letter-spacing: 10px; }
 #where-leader-sj { font-size: 108px; letter-spacing: 42px; position: relative; left: 15px; }

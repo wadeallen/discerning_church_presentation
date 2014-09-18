@@ -736,7 +736,7 @@
                             api.goto(song3_step);
                             break;
                     case 52: // 4
-                            var song4_step = document.getElementById('song4');
+                            var song4_step = document.getElementById('decide');
                             api.goto(song4_step);
                             break;
                     case 53: // 5
